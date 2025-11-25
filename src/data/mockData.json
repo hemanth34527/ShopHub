@@ -1,0 +1,211 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@shophub.com",
+      "password": "admin123",
+      "name": "Admin User",
+      "role": "admin",
+      "avatar": "https://ui-avatars.com/api/?name=Admin+User&background=6366f1&color=fff"
+    },
+    {
+      "id": 2,
+      "email": "demo@shophub.com",
+      "password": "demo123",
+      "name": "Demo User",
+      "role": "user",
+      "avatar": "https://ui-avatars.com/api/?name=Demo+User&background=ec4899&color=fff"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones Pro",
+      "category": "Electronics",
+      "price": 299.99,
+      "stock": 45,
+      "rating": 4.8,
+      "reviews": 234,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+      "description": "Premium wireless headphones with active noise cancellation",
+      "trending": true,
+      "new": false
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch Ultra",
+      "category": "Electronics",
+      "price": 449.99,
+      "stock": 32,
+      "rating": 4.6,
+      "reviews": 189,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop",
+      "description": "Advanced fitness tracking with heart rate monitoring",
+      "trending": true,
+      "new": true
+    },
+    {
+      "id": 3,
+      "name": "Minimalist Backpack",
+      "category": "Fashion",
+      "price": 89.99,
+      "stock": 78,
+      "rating": 4.7,
+      "reviews": 156,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop",
+      "description": "Sleek design with laptop compartment",
+      "trending": false,
+      "new": false
+    },
+    {
+      "id": 4,
+      "name": "Premium Coffee Maker",
+      "category": "Home",
+      "price": 199.99,
+      "stock": 23,
+      "rating": 4.9,
+      "reviews": 312,
+      "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=400&h=400&fit=crop",
+      "description": "Barista-quality coffee at home",
+      "trending": true,
+      "new": false
+    },
+    {
+      "id": 5,
+      "name": "Ergonomic Office Chair",
+      "category": "Furniture",
+      "price": 349.99,
+      "stock": 15,
+      "rating": 4.5,
+      "reviews": 98,
+      "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=400&h=400&fit=crop",
+      "description": "Ultimate comfort for long work hours",
+      "trending": false,
+      "new": true
+    },
+    {
+      "id": 6,
+      "name": "Yoga Mat Premium",
+      "category": "Sports",
+      "price": 49.99,
+      "stock": 120,
+      "rating": 4.6,
+      "reviews": 267,
+      "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=400&h=400&fit=crop",
+      "description": "Non-slip surface with extra cushioning",
+      "trending": false,
+      "new": false
+    },
+    {
+      "id": 7,
+      "name": "4K Action Camera",
+      "category": "Electronics",
+      "price": 279.99,
+      "stock": 41,
+      "rating": 4.7,
+      "reviews": 145,
+      "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=400&h=400&fit=crop",
+      "description": "Capture adventures in stunning detail",
+      "trending": true,
+      "new": true
+    },
+    {
+      "id": 8,
+      "name": "Leather Messenger Bag",
+      "category": "Fashion",
+      "price": 159.99,
+      "stock": 34,
+      "rating": 4.8,
+      "reviews": 178,
+      "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400&h=400&fit=crop",
+      "description": "Handcrafted genuine leather",
+      "trending": false,
+      "new": false
+    },
+    {
+      "id": 9,
+      "name": "Smart Speaker Hub",
+      "category": "Electronics",
+      "price": 129.99,
+      "stock": 67,
+      "rating": 4.4,
+      "reviews": 203,
+      "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=400&h=400&fit=crop",
+      "description": "Voice-controlled home automation",
+      "trending": false,
+      "new": false
+    },
+    {
+      "id": 10,
+      "name": "Running Shoes Elite",
+      "category": "Sports",
+      "price": 139.99,
+      "stock": 89,
+      "rating": 4.7,
+      "reviews": 421,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=400&fit=crop",
+      "description": "Lightweight with responsive cushioning",
+      "trending": true,
+      "new": false
+    },
+    {
+      "id": 11,
+      "name": "Stainless Steel Water Bottle",
+      "category": "Sports",
+      "price": 29.99,
+      "stock": 200,
+      "rating": 4.8,
+      "reviews": 356,
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&h=400&fit=crop",
+      "description": "Keeps drinks cold for 24 hours",
+      "trending": false,
+      "new": false
+    },
+    {
+      "id": 12,
+      "name": "Desk Lamp LED",
+      "category": "Home",
+      "price": 69.99,
+      "stock": 56,
+      "rating": 4.5,
+      "reviews": 134,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400&h=400&fit=crop",
+      "description": "Adjustable brightness and color temperature",
+      "trending": false,
+      "new": true
+    }
+  ],
+  "analytics": {
+    "totalRevenue": 127453.28,
+    "totalOrders": 1847,
+    "totalCustomers": 892,
+    "averageOrder": 69.02,
+    "salesByMonth": [
+      { "month": "Jan", "sales": 8500, "orders": 145 },
+      { "month": "Feb", "sales": 9200, "orders": 167 },
+      { "month": "Mar", "sales": 11400, "orders": 198 },
+      { "month": "Apr", "sales": 10800, "orders": 182 },
+      { "month": "May", "sales": 13200, "orders": 215 },
+      { "month": "Jun", "sales": 14500, "orders": 234 },
+      { "month": "Jul", "sales": 12900, "orders": 201 },
+      { "month": "Aug", "sales": 15600, "orders": 256 },
+      { "month": "Sep", "sales": 13700, "orders": 223 },
+      { "month": "Oct", "sales": 10200, "orders": 178 },
+      { "month": "Nov", "sales": 7453, "orders": 148 }
+    ],
+    "categoryBreakdown": [
+      { "name": "Electronics", "value": 45200, "percentage": 35.5 },
+      { "name": "Fashion", "value": 32100, "percentage": 25.2 },
+      { "name": "Sports", "value": 24300, "percentage": 19.1 },
+      { "name": "Home", "value": 18500, "percentage": 14.5 },
+      { "name": "Furniture", "value": 7353, "percentage": 5.7 }
+    ],
+    "recentOrders": [
+      { "id": "ORD-1847", "customer": "Hemanth Gopal", "amount": 299.99, "status": "Delivered", "date": "2025-11-24" },
+      { "id": "ORD-1846", "customer": "Venkat Sai", "amount": 449.99, "status": "Shipped", "date": "2025-11-24" },
+      { "id": "ORD-1845", "customer": "Prasad", "amount": 89.99, "status": "Processing", "date": "2025-11-23" },
+      { "id": "ORD-1844", "customer": "Gagan Kumar", "amount": 199.99, "status": "Delivered", "date": "2025-11-23" },
+      { "id": "ORD-1843", "customer": "Pavan Varma", "amount": 349.99, "status": "Cancelled", "date": "2025-11-22" }
+    ]
+  }
+}
